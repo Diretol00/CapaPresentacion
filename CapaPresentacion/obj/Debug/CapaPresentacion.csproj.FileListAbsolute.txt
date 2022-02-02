@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\CapaPresentacion\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\ACER\source\repos\CapaPresentacion\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\ACER\source\repos\CapaPresentacion\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\ACER\source\repos\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.Calculadora.resources
+C:\Users\ACER\source\repos\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\ACER\source\repos\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\ACER\source\repos\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
