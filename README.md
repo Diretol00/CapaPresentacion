@@ -1,3 +1,3 @@
 # CapaPresentacion
 
-Hice una calculadora básica.
+Calculadora básica.
